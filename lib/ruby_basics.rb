@@ -7,22 +7,25 @@ def assign_variable(value)
     value
 end
 
-def argue
-
+def argue(foo)
+    foo
 end
 
-def greeting
+def greeting(greeting,name)
 
 end
 
 def return_a_value
-
+    foo = "Nice"
+    foo
 end
 
 def last_evaluated_value
-
+    foo = "expert"
+    foo
 end
 
 def pizza_party
-
+  foo = "cheese"
+  foo
 end
